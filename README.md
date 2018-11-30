@@ -1,3 +1,11 @@
+This is my heroku App link: 
+
+heroku logs --tail
+
+
+
+
+
 # Scrapper-
 
 # All the News That's Fit to Scrape
