@@ -1,5 +1,10 @@
 This is my heroku App link: 
 
+https://murmuring-coast-67518.herokuapp.com/
+
+$ git push heroku master
+
+
 heroku logs --tail
 
 
